@@ -1,0 +1,22 @@
+body {
+  background-color: aquamarine;
+}
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+svg {
+  height: 80vh;
+  align-items: center;
+}
+.cls-1 {
+  fill: #000;
+}
+.cls-2 {
+  fill: #161c55;
+}
+/* .cls-2:hover {
+  fill: #356680;
+  opacity: 0.3;
+} */
